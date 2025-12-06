@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/santi/OneDrive/Documentos/PD_git/PRE-07-mlflow-tracking-basico-ssuarezp/mlruns/424528782778048789/7c4f04e554874b558c7d21293eddfd2a/artifacts
+end_time: 1765041109188
+entry_point_name: ''
+experiment_id: '424528782778048789'
+lifecycle_stage: active
+run_id: 7c4f04e554874b558c7d21293eddfd2a
+run_name: knn_d75539aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765041082685
+status: 3
+tags: []
+user_id: santi

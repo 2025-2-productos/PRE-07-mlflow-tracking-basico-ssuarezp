@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/santi/OneDrive/Documentos/PD_git/PRE-07-mlflow-tracking-basico-ssuarezp/mlruns/424528782778048789
+creation_time: 1765041062225
+experiment_id: '424528782778048789'
+last_update_time: 1765041062225
+lifecycle_stage: active
+name: wine_quality_experiment

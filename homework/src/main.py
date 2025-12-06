@@ -3,6 +3,9 @@ import uuid
 
 import mlflow
 
+mlflow.set_tracking_uri("file:mlruns")
+mlflow.set_experiment("wine_quality_experiment")
+
 from homework.src._internals.calculate_metrics import calculate_metrics
 from homework.src._internals.parse_argument import parse_argument
 from homework.src._internals.prepare_data import prepare_data

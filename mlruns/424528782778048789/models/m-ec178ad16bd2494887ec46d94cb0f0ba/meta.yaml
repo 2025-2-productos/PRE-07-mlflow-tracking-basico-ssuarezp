@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/santi/OneDrive/Documentos/PD_git/PRE-07-mlflow-tracking-basico-ssuarezp/mlruns/424528782778048789/models/m-ec178ad16bd2494887ec46d94cb0f0ba/artifacts
+creation_timestamp: 1765041066330
+experiment_id: '424528782778048789'
+last_updated_timestamp: 1765041075420
+model_id: m-ec178ad16bd2494887ec46d94cb0f0ba
+model_type: null
+name: model
+source_run_id: 1dbefce8076e40a089b4376615b10405
+status: 2
+status_message: null
