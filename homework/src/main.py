@@ -19,8 +19,8 @@ RANDOM_STATE = 123456
 def main():
 
     # Configurar MLflow para usar ruta relativa
-    # tracking_uri = os.path.join(os.getcwd(), "mlruns")
-    # mlflow.set_tracking_uri(f"file://{tracking_uri}")
+    tracking_uri = os.path.join(os.getcwd(), "mlruns")
+    mlflow.set_tracking_uri(f"file://{tracking_uri}")
 
     args = parse_argument()
     model = select_model(args)
