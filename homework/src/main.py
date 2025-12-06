@@ -10,6 +10,11 @@ from homework.src._internals.print_metrics import print_metrics
 from homework.src._internals.save_model_if_better import save_model_if_better
 from homework.src._internals.select_model import select_model
 
+# Configurar MLflow para usar ruta relativa
+# tracking_uri = os.path.join(os.getcwd(), "mlruns")
+# mlflow.set_tracking_uri(f"file://{tracking_uri}")
+
+
 FILE_PATH = "data/winequality-red.csv"
 TEST_SIZE = 0.25
 RANDOM_STATE = 123456
